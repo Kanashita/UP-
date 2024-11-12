@@ -1,0 +1,192 @@
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserForm.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLoginForm.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterForm.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminsDataBaseForm.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataBasesForm.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarsDataBaseForm.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DriversDataBaseForm.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OperationsDataBaseForm.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UsersDataBaseForm.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditAdminsDataBaseForm.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditDataBasesForm.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminsDataBase2.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarsDataBase2.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataBasesForm2.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DriversDataBase2.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OperationsDataBase2.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UsersDataBase2.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros1.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros2.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros3.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros4.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zaproses.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLoginForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminsDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminsDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarsDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarsDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataBasesForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataBasesForm2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DriversDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DriversDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditAdminsDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditDataBasesForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OperationsDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OperationsDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UsersDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UsersDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros3.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros4.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zaproses.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Баранов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLoginForm.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminsDataBase2.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminsDataBaseForm.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarsDataBase2.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarsDataBaseForm.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataBasesForm.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataBasesForm2.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DriversDataBase2.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DriversDataBaseForm.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditAdminsDataBaseForm.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditDataBasesForm.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OperationsDataBase2.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OperationsDataBaseForm.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterForm.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserForm.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UsersDataBase2.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UsersDataBaseForm.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros1.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros2.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros3.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros4.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zaproses.resources
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\PC\Documents\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditUsersDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLoginForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminsDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminsDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarsDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarsDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataBasesForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataBasesForm2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DriversDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DriversDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditAdminsDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditDataBasesForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditUsersDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OperationsDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OperationsDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UsersDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UsersDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros3.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros4.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zaproses.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная кампания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLoginForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminsDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminsDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarsDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarsDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataBasesForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataBasesForm2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DriversDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DriversDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OperationsDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OperationsDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UsersDataBase2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UsersDataBaseForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros3.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros4.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zaproses.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros1_2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros2_2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros3_2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros4_2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Учебна практика\Баранов Автотранспортная компания\Баранов\Программа 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zaproses_2.resources
